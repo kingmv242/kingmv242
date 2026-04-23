@@ -9,7 +9,7 @@ I like making things that make people's lives easier.
 Loading...
 - AI powered Vitamin Tracking App with live Image Detection🍎
 - AI Automated Twitch Clip Editor Chrome Extension 👾
-- "What Hachiware Character am I?" Survey 😼
+
 <!-- 
 **kingmv242/kingmv242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
