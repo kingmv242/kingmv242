@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-My name is **King**, I'm an inspiring software engineer whose currently studying CS at UC Irvine. 
+My name is **King**, I'm an aspiring software engineer whose currently studying CS at UC Irvine. 
 
 Im interested in AI, Cloud, and Software Development. 
 
