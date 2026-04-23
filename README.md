@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi! 👋😼
 
 My name is **King**, I'm an aspiring software engineer whose currently studying CS at UC Irvine. 
 
