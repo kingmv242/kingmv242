@@ -1,9 +1,10 @@
-## Hi there 🙋‍♂️
+## Hi! 👋
 
-I'm King, an inspiring software engineer whose currently studying CS at UC Irvine. 
+My name is King, I'm an inspiring software engineer whose currently studying CS at UC Irvine. 
 
 I like making things that make people's lives easier. 
 
+Im interested in AI, Cloud, and Software Development. 
 <!-- 
 **kingmv242/kingmv242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
