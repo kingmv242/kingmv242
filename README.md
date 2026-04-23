@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
 
-<!--
+I'm King, an inspiring software engineer whose currently studying CS at UC Irvine. 
+
+I like making things that make people's lives easier. 
+
+<!-- 
 **kingmv242/kingmv242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
